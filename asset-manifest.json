@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taromtiger.github.io/use-popcorn/static/css/main.705a4c60.css",
+    "main.js": "/taromtiger.github.io/use-popcorn/static/js/main.9ccb31cb.js",
+    "index.html": "/taromtiger.github.io/use-popcorn/index.html",
+    "main.705a4c60.css.map": "/taromtiger.github.io/use-popcorn/static/css/main.705a4c60.css.map",
+    "main.9ccb31cb.js.map": "/taromtiger.github.io/use-popcorn/static/js/main.9ccb31cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705a4c60.css",
+    "static/js/main.9ccb31cb.js"
+  ]
+}
